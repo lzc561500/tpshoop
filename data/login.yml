@@ -1,0 +1,9 @@
+test_login:
+          test_login1:
+                  userName: "18756355278"
+                  password: "lzc4014688"
+                  screenName: "screen_login1"
+          test_login2:
+                  userName: "lzc4014688"
+                  password: "1234567"
+                  screenName: "screen_login2"
